@@ -1,2 +1,14 @@
-# Python virtual environment directories
-ud-deep-learning/uddl-env
+# Ignore anything ending with a tilde
+*~
+
+# Specific to macOS
+.DS_Store
+
+# Specific to CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Specific executables
+ml_linear_algebra
