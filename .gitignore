@@ -12,3 +12,4 @@ Makefile
 
 # Specific executables
 ml_linear_algebra
+ml_prob_and_stats
